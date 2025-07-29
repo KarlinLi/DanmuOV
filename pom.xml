@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.sf.bili</groupId>
-	<artifactId>bili</artifactId>
+	<groupId>com.sf.bilibili</groupId>
+	<artifactId>bilibili</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bili Maven Webapp</name>
+	<name>bilibili Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<!-- 中文乱码问题 <properties> <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
@@ -113,7 +113,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>bili</finalName>
+		<finalName>bilibili</finalName>
 		<!-- 配置编译插件 -->
 		<plugins>
 			<plugin>
